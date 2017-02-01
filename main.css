@@ -1,0 +1,24 @@
+.turquoise-text{
+    color:#1abc9c;
+}
+.turquoise-background{
+    color:#1abc9c;
+}
+.turquoise-text.with-hover{
+    color:#16a085;
+}
+.turquoise-background.with-hover{
+    color:#16a085;
+}
+.green-sea-text{
+    color:#16a085;
+}
+.green-sea-background{
+    color:#16a085;
+}
+.green-sea-text.with-hover{
+    color:#1abc9c;
+}
+.green-sea-background.with-hover{
+    color:#1abc9c;
+}
