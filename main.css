@@ -1,24 +1,259 @@
+/* CYAN */
 .turquoise-text{
     color:#1abc9c;
 }
 .turquoise-background{
-    color:#1abc9c;
+    background:#1abc9c;
 }
-.turquoise-text.with-hover{
+.turquoise-text.with-hover:hover{
     color:#16a085;
 }
-.turquoise-background.with-hover{
-    color:#16a085;
+.turquoise-background.with-hover:hover{
+    background:#16a085;
 }
 .green-sea-text{
     color:#16a085;
 }
 .green-sea-background{
-    color:#16a085;
+    background:#16a085;
 }
-.green-sea-text.with-hover{
+.green-sea-text.with-hover:hover{
     color:#1abc9c;
 }
-.green-sea-background.with-hover{
-    color:#1abc9c;
+.green-sea-background.with-hover:hover{
+    background:#1abc9c;
+}
+
+/* GREEN */
+.emerald-text{
+    color:#2ecc71;
+}
+.emerald-background{
+    background:#2ecc71;
+}
+.emerald-text.with-hover:hover{
+    color:#27ae60;
+}
+.emerald-background.with-hover:hover{
+    background:#27ae60;
+}
+.nephritis-text{
+    color:#27ae60;
+}
+.nephritis-background{
+    background:#27ae60;
+}
+.nephritis-text.with-hover:hover{
+    color:#2ecc71;
+}
+.nephritis-background.with-hover:hover{
+    background:#2ecc71;
+}
+
+/* BLUE */
+.peter-river-text{
+    color:#3498db;
+}
+.peter-river-background{
+    background:#3498db;
+}
+.peter-river-text.with-hover:hover{
+    color:#2980b9;
+}
+.peter-river-background.with-hover:hover{
+    background:#2980b9;
+}
+.belize-hole-text{
+    color:#2980b9;
+}
+.belize-hole-background{
+    background:#2980b9;
+}
+.belize-hole-text.with-hover:hover{
+    color:#3498db;
+}
+.belize-hole-background.with-hover:hover{
+    background:#3498db;
+}
+
+/* PURPLE */
+.amethyst-text{
+    color:#9b59b6;
+}
+.amethyst-background{
+    background:#9b59b6;
+}
+.amethyst-text.with-hover:hover{
+    color:#8e44ad;
+}
+.amethyst-background.with-hover:hover{
+    background:#8e44ad;
+}
+.wisteria-text{
+    color:#8e44ad;
+}
+.wisteria-background{
+    background:#8e44ad;
+}
+.wisteria-text.with-hover:hover{
+    color:#9b59b6;
+}
+.wisteria-background.with-hover:hover{
+    background:#9b59b6;
+}
+
+/* BLUEISH DARK GREY */
+.wet-asphalt-text{
+    color:#34495e;
+}
+.wet-asphalt-background{
+    background:#34495e;
+}
+.wet-asphalt-text.with-hover:hover{
+    color:#2c3e50;
+}
+.wet-asphalt-background.with-hover:hover{
+    background:#2c3e50;
+}
+.midnight-blue-text{
+    color:#2c3e50;
+}
+.midnight-blue-background{
+    background:#2c3e50;
+}
+.midnight-blue-text.with-hover:hover{
+    color:#34495e;
+}
+.midnight-blue-background.with-hover:hover{
+    background:#34495e;
+}
+
+/* YELLOW */
+.sun-flower-text{
+    color:#f1c40f;
+}
+.sun-flower-background{
+    background:#f1c40f;
+}
+.sun-flower-text.with-hover:hover{
+    color:#f39c12;
+}
+.sun-flower-background.with-hover:hover{
+    background:#f39c12;
+}
+.orange-text{
+    color:#f39c12;
+}
+.orange-background{
+    background:#f39c12;
+}
+.orange-text.with-hover:hover{
+    color:#f1c40f;
+}
+.orange-background.with-hover:hover{
+    background:#f1c40f;
+}
+
+/* ORANGE */
+.carrot-text{
+    color:#e67e22;
+}
+.carrot-background{
+    background:#e67e22;
+}
+.carrot-text.with-hover:hover{
+    color:#d35400;
+}
+.carrot-background.with-hover:hover{
+    background:#d35400;
+}
+.pumpkin-text{
+    color:#d35400;
+}
+.pumpkin-background{
+    background:#d35400;
+}
+.pumpkin-text.with-hover:hover{
+    color:#e67e22;
+}
+.pumpkin-background.with-hover:hover{
+    background:#e67e22;
+}
+
+/* RED */
+.alizarin-text{
+    color:#e74c3c;
+}
+.alizarin-background{
+    background:#e74c3c;
+}
+.alizarin-text.with-hover:hover{
+    color:#c0392b;
+}
+.alizarin-background.with-hover:hover{
+    background:#c0392b;
+}
+.pomegranate-text{
+    color:#c0392b;
+}
+.pomegranate-background{
+    background:#c0392b2980b9;
+}
+.pomegranate-text.with-hover:hover{
+    color:#e74c3c;
+}
+.pomegranate-background.with-hover:hover{
+    background:#e74c3c;
+}
+
+/* WHITE GRAY */
+.clouds-text{
+    color:#ecf0f1;
+}
+.clouds-background{
+    background:#ecf0f1;
+}
+.clouds-text.with-hover:hover{
+    color:#bdc3c7;
+}
+.clouds-background.with-hover:hover{
+    background:#bdc3c7;
+}
+.silver-text{
+    color:#bdc3c7;
+}
+.silver-background{
+    background:#bdc3c7;
+}
+.silver-text.with-hover:hover{
+    color:#ecf0f1;
+}
+.silver-background.with-hover:hover{
+    background:#ecf0f1;
+}
+
+/* GRAY */
+.concrete-text{
+    color:#95a5a6;
+}
+.concrete-background{
+    background:#95a5a6;
+}
+.concrete-text.with-hover:hover{
+    color:#7f8c8d;
+}
+.concrete-background.with-hover:hover{
+    background:#7f8c8d;
+}
+.asbestos-text{
+    color:#7f8c8d;
+}
+.asbestos-background{
+    background:#7f8c8d;
+}
+.asbestos-text.with-hover:hover{
+    color:#95a5a6;
+}
+.asbestos-background.with-hover:hover{
+    background:#95a5a6;
 }
